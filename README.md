@@ -1,6 +1,5 @@
-# For academic use only
-
-## A Linear Comb Filter for Event Flicker Removal
+# A Linear Comb Filter for Event Flicker Removal
+## For academic use only
 Event cameras are bio-inspired sensors that capture per-pixel asynchronous intensity change rather than the synchronous absolute intensity frames captured by a classical camera sensor.
 Such cameras are ideal for robotics applications since they have high temporal resolution, high dynamic range and low latency.
 However, due to their high temporal resolution, event cameras are particularly sensitive to flicker such as from fluorescent or LED lights.
