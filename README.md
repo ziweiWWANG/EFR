@@ -15,16 +15,13 @@ Ziwei Wang, Dingran Yuan, Yonhon Ng, and Robert Mahony
 The paper was accepted by the International Conf. Robotics and Automation (ICRA 2022) in Philadelphia, USA.
 
 ## Publications
+ArXiv preprint: https://arxiv.org/abs/2205.08090
+
+## Video, Dataset and Code
 Coming soon
 
-## Video
-Coming soon
 
-## Dataset
-Coming soon
-
-## Code
-Coming soon
+If you have any questions or suggestions regarding this code and the corresponding results, please don't hesitate to get in touch with ziwei.wang1@anu.edu.au
 
 
 
