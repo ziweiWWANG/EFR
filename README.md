@@ -21,7 +21,7 @@ ArXiv preprint: https://arxiv.org/abs/2205.08090
 Coming soon
 
 
-If you have any questions or suggestions regarding this code and the corresponding results, please don't hesitate to get in touch with ziwei.wang1@anu.edu.au
+If you have any questions or suggestions, please don't hesitate to get in touch with ziwei.wang1@anu.edu.au
 
 
 
