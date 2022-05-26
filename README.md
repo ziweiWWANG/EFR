@@ -19,8 +19,7 @@ arXiv preprint: https://arxiv.org/abs/2205.08090
 ## Video and Code
 Coming soon
 
-### [Download Example Datasets Download Here](https://anu365-my.sharepoint.com/:f:/g/personal/u6456661_anu_edu_au/EtnKCU4J78hAhO_3uewHefkBObwmxZu9u3iq_eN4_eHz6w?e=hlj9rJ)
-
+### [Click Here To Download Example Datasets](https://anu365-my.sharepoint.com/:f:/g/personal/u6456661_anu_edu_au/EtnKCU4J78hAhO_3uewHefkBObwmxZu9u3iq_eN4_eHz6w?e=hlj9rJ)
 
 If you have any questions or suggestions, please don't hesitate to get in touch with ziwei.wang1@anu.edu.au
 
