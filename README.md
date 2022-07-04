@@ -16,6 +16,13 @@ The paper was accepted by the International Conf. Robotics and Automation (ICRA 
 ## Publications
 arXiv preprint: https://arxiv.org/abs/2205.08090
 
+@InProceedings{wang22icra,
+  author        = {Ziwei Wang and Dingran Yuan and Yonhon Ng and Robert Mahony},
+  title         = {A Linear Comb Filter for Event Flicker Removal},
+  booktitle     = {"International Conference on Robotics and Automation (ICRA)" },
+  year          = {2022}
+}
+
 ## Video and Code
 Coming soon
 
