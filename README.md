@@ -1,4 +1,11 @@
 # A Linear Comb Filter for Event Flicker Removal
+
+<p align="center">
+  <a href="https://youtu.be/1XgOknDIV00">
+    <img src="figures/video_thumbnail.png" alt="A Linear Comb Filter for Event Flicker Removal" width="500"/>
+  </a>
+</p>
+
 ## For academic use only
 Event cameras are bio-inspired sensors that capture per-pixel asynchronous intensity change rather than the synchronous absolute intensity frames captured by a classical camera sensor.
 Such cameras are ideal for robotics applications since they have high temporal resolution, high dynamic range and low latency.
@@ -23,7 +30,7 @@ arXiv preprint: https://arxiv.org/abs/2205.08090
   year          = {2022}
 }
 
-## Video and Code
+## Code
 Coming soon
 
 ### [Click Here To Download Example Datasets](https://anu365-my.sharepoint.com/:f:/g/personal/u6456661_anu_edu_au/EtnKCU4J78hAhO_3uewHefkBObwmxZu9u3iq_eN4_eHz6w?e=hlj9rJ)
