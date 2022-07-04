@@ -32,7 +32,7 @@ If you use or discuss our algorithm or datasets, please cite our paper as follow
   booktitle     = {"International Conference on Robotics and Automation (ICRA)" },
   year          = {2022}
 }
-<pre>
+</pre>
 
 ## Code
 Coming soon
