@@ -20,7 +20,7 @@ Ziwei Wang, Dingran Yuan, Yonhon Ng, and Robert Mahony
 
 The paper was accepted by the International Conf. Robotics and Automation (ICRA 2022) in Philadelphia, USA.
 
-[arXiv preprint](https://arxiv.org/abs/2205.08090) [Datasets](https://anu365-my.sharepoint.com/:f:/g/personal/u6456661_anu_edu_au/EtnKCU4J78hAhO_3uewHefkBObwmxZu9u3iq_eN4_eHz6w?e=hlj9rJ)
+[[arXiv preprint]](https://arxiv.org/abs/2205.08090) [[Datasets]](https://anu365-my.sharepoint.com/:f:/g/personal/u6456661_anu_edu_au/EtnKCU4J78hAhO_3uewHefkBObwmxZu9u3iq_eN4_eHz6w?e=hlj9rJ)
 
 ## Citation
 If you use or discuss our algorithm or datasets, please cite our paper as follows:
@@ -36,7 +36,11 @@ If you use or discuss our algorithm or datasets, please cite our paper as follow
 ## Code
 Coming soon
 
-### [Click Here To Download Example Datasets](https://anu365-my.sharepoint.com/:f:/g/personal/u6456661_anu_edu_au/EtnKCU4J78hAhO_3uewHefkBObwmxZu9u3iq_eN4_eHz6w?e=hlj9rJ)
+## [Download Example Datasets](https://anu365-my.sharepoint.com/:f:/g/personal/u6456661_anu_edu_au/EtnKCU4J78hAhO_3uewHefkBObwmxZu9u3iq_eN4_eHz6w?e=hlj9rJ)
+
+<!--
+![flickering_data_name](figures/flickering_data_name.gif)
+-->
 
 Should you have any questions or suggestions, please don't hesitate to get in touch with ziwei.wang1@anu.edu.au
 
