@@ -1,0 +1,13 @@
+base_frequency: 50
+process_ts_start: 0
+process_ts_end: 2.5
+rho1: 0.6
+delta_t: 10000
+sampler_threshold: 0.7
+load_or_compute_bias: 1
+img_height: 480
+img_width: 640
+time_resolution: 1000000
+input_event: "events_raw.txt"
+output_event: "events_filter.txt"
+data_id: "05"
