@@ -45,8 +45,6 @@ Dataset overview: pure-event video reconstruction from the debiased data:
 https://user-images.githubusercontent.com/56065023/209065202-5ecbbba4-90ca-4982-8199-deb326d64e78.mp4
 
 
-
-
 ### Installation
 Dependencies:
 - [OpenCV](https://opencv.org/)
@@ -74,7 +72,7 @@ Because most of the event camera reconstruction algorithms require event data sa
 ```
 python ../sort_zip_event.py
 ```
-The sorted and event data will be saved under `data/{data_id}/`, named `events_filter_sort.cvs` and `events_filter_sort.zip`.
+The sorted and event data will be saved under `data/{data_id}/`, named `events_filter_sort.txt` and `events_filter_sort.zip`.
 The zipped data is used for E2VID evaluation. 
 
 
