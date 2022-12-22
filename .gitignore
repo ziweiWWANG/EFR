@@ -374,6 +374,8 @@ build/*
 *.raw
 *.csv
 
+!CMakeLists.txt
+
 callgrind.*
 
 # Commands
