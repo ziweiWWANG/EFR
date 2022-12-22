@@ -39,7 +39,14 @@ Download the dataset, save to folder `./data`
 - [Example Event Flicker Datasets](https://anu365-my.sharepoint.com/:f:/g/personal/u6456661_anu_edu_au/EtnKCU4J78hAhO_3uewHefkBObwmxZu9u3iq_eN4_eHz6w?e=hlj9rJ).
 
 Dataset overview: pure-event video reconstruction from the debiased data:
-![](https://github.com/ziweiWWANG/EFR/blob/main/figures/datasets.gif)
+
+
+
+https://user-images.githubusercontent.com/56065023/209065202-5ecbbba4-90ca-4982-8199-deb326d64e78.mp4
+
+
+
+
 ### Installation
 Dependencies:
 - [OpenCV](https://opencv.org/)
