@@ -1,6 +1,6 @@
 # A Linear Comb Filter for Event Flicker Removal
 
-#### Main parameters in configuration file
+#### Main parameters in configuration file `EFR_config.yaml`
 
 |          Variables            | Description | Default Value |
 |----------------------|----------------------|-----------------------------|
