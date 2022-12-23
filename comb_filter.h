@@ -15,7 +15,6 @@
 #include <string>
 #include <opencv2/opencv.hpp>
 
-using stampe_double = std::pair<int, double>;
 namespace comb_filter
 {
 	class comb_filter
@@ -24,10 +23,10 @@ namespace comb_filter
 		comb_filter();
 		struct cell_comb_filter
 		{
-			std::queue<stampe_double> q1;
-			std::queue<stampe_double> q2;
-			std::queue<stampe_double> q3;
-			std::queue<stampe_double> q4;
+			std::queue<std::pair<int, double>> q1;
+			std::queue<std::pair<int, double>> q2;
+			std::queue<std::pair<int, double>> q3;
+			std::queue<std::pair<int, double>> q4;
 			double bias = 0.0;
 			double sum_p = 0;
 			int x = -1;
