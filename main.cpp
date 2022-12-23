@@ -169,7 +169,7 @@ void compute_bias(std::string bias_filename, std::string input_file_name, comb_f
 {
     std::ifstream myFile(input_file_name);
     if (!myFile.is_open())
-        throw std::runtime_error("Could not open the inpute event data file");
+        throw std::runtime_error("Could not open the input event data file");
     std::ofstream myBiasFile(bias_filename);
     if (!myBiasFile.is_open())
         throw std::runtime_error("Could not open the bias file to write");
