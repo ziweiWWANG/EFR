@@ -94,10 +94,6 @@ python run_reconstruction.py  \
 --dataset_name {your_data_save_name}
 ```
 
-
-## Code Implementation Visualization
-TODO: add video
-
 ## Notes
 Should you have any questions or suggestions, please don't hesitate to get in touch with ziwei.wang1@anu.edu.au
 
