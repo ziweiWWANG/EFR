@@ -25,11 +25,13 @@ The paper was accepted by the International Conf. Robotics and Automation (ICRA 
 ## Citation
 If you use or discuss our algorithm or datasets, please cite our paper as follows:
 <pre>
-@InProceedings{wang22icra,
-  author        = {Ziwei Wang and Dingran Yuan and Yonhon Ng and Robert Mahony},
-  title         = {A Linear Comb Filter for Event Flicker Removal},
-  booktitle     = {"International Conference on Robotics and Automation (ICRA)" },
-  year          = {2022}
+@inproceedings{wang2022linear,
+  title={A linear comb filter for event flicker removal},
+  author={Wang, Ziwei and Yuan, Dingran and Ng, Yonhon and Mahony, Robert},
+  booktitle={2022 International Conference on Robotics and Automation (ICRA)},
+  pages={398--404},
+  year={2022},
+  organization={IEEE}
 }
 </pre>
 
